@@ -2,6 +2,10 @@
 This is my Dockerfile for rpi-ghost. You can now install the famous blogging platform on your Raspberry pi!
 Enjoy blogging.
 
+## Run Ghost on your Raspberry pi ##
+
+`$ sudo docker run -ti --name ghost -d -p 80:2368 de13/ghost`
+
 ## About this version ##
 
 This version use Node.js argon (4.5) and Ghost 0.8.0.
