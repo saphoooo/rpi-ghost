@@ -6,6 +6,8 @@ Enjoy blogging.
 
 `$ sudo docker run -ti --name ghost -d -p 80:2368 de13/ghost`
 
+Then you can access your Ghost server through http://raspberry-pi_ip
+
 ## About this version ##
 
 This version use Node.js argon (4.5) and Ghost 0.8.0.
