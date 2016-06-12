@@ -9,6 +9,7 @@ Enjoy blogging.
 Then you can access your Ghost server through http://raspberry-pi_ip
 
 See also [https://hub.docker.com/r/de13/rpi-ghost/] (de13/rpi-ghost)
+See also [de13/rpi-ghost] (https://hub.docker.com/r/de13/rpi-ghost/)
 
 ## About this version ##
 
