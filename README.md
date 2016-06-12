@@ -8,6 +8,8 @@ Enjoy blogging.
 
 Then you can access your Ghost server through http://raspberry-pi_ip
 
+See also [https://hub.docker.com/r/de13/rpi-ghost/] (de13/rpi-ghost)
+
 ## About this version ##
 
 This version use Node.js argon (4.5) and Ghost 0.8.0.
