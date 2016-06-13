@@ -6,7 +6,7 @@ Enjoy blogging.
 
 `$ sudo docker run -ti --name ghost -d -p 80:2368 de13/ghost`
 
-Then you can access your Ghost server through http://raspberry-pi_ip
+Then you can access your Ghost server through http://raspberry-pi_ip/ghost
 
 See also [de13/rpi-ghost] (https://hub.docker.com/r/de13/rpi-ghost/)
 
