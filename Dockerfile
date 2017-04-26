@@ -2,7 +2,7 @@ FROM hypriot/rpi-node:argon
 MAINTAINER Saphoooo <stephane.beuret@gmail.com>
 
 #Ghost version
-ENV GHOST_VERSION 0.11.3
+ENV GHOST_VERSION 0.11.8
 
 RUN apt-get update && apt-get install -y unzip
 WORKDIR /usr/src
